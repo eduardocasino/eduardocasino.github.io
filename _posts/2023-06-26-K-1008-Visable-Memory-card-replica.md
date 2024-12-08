@@ -17,4 +17,4 @@ I've just completed a first version of the schematics, including some annotation
 
 As always, everything is available at my [GitHub repository](https://github.com/eduardocasino/k-1008-visable-memory-card-replica).
 
-Thanks to Hans Otten for the invaluable info [at his site](http://retro.hansotten.nl/) and Dave Plummer for the photos and interest in this project.
+Thanks to Hans Otten for the invaluable info at his site, http://retro.hansotten.nl, and Dave Plummer for the photos and interest in this project.

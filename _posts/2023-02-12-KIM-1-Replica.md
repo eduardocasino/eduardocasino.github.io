@@ -24,4 +24,4 @@ This is the current status:
 
 Everything is available at my [GitHub repository](https://github.com/eduardocasino/kim-1).
 
-Thanks to Hans Otten for the invaluable info [at his site](http://retro.hansotten.nl/).
+Thanks to Hans Otten for the invaluable info at his site,http://retro.hansotten.nl
