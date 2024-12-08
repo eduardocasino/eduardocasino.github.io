@@ -2,6 +2,7 @@
 title: K-1013 Replica completed
 date: 2024-11-21 23:08:00 +0100
 categories: [Hardware, KIM-1]
+image: /assets/img/posts/2024-11-21-K-1013-Replica-completed/preview.png
 tags: [kim-1, mtu, k-1013]     # TAG names should always be lowercase
 pin: true
 ---
