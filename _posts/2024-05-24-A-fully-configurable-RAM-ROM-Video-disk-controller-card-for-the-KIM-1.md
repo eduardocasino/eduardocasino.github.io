@@ -6,7 +6,7 @@ categories: [Hardware, KIM-1]
 image:
   path: /assets/img/posts/2024-05-24-A-fully-configurable-RAM-ROM-Video-disk-controller-card-for-the-KIM-1/preview.png
   alt: Card prototype (not final version)
-tags: [kim-1, mtu, ram, rom, k-1008, k-1013]     # TAG names should always be lowercase
+tags: [kim-1, mtu, ram, rom, k-1008, k-1013, raspberry, pico, picow]     # TAG names should always be lowercase
 ---
 > **Update:** K-1013 functionallity implemented. Still in beta, but working reasonably well. Also, sent to hell the Python `memcfg` utility and rewrote it in plain C.
 {: .prompt-info }
