@@ -3,6 +3,9 @@ title: Porting CP/M-65 to the KIM-1
 date: 2024-07-26 00:00:00 +0100
 last_modified_at: 2024-08-07 00:00:00 +0100
 categories: [Software, KIM-1]
+image:
+  path: /assets/img/posts/2024-07-26-Porting-CP-M-65-to-the-KIM-1/preview.png
+  alt: Photo by Michael Specht, CC BY-SA 3.0
 tags: [kim-1, mtu, k-1013, cp/m, cpm, cp/m-65, iec]     # TAG names should always be lowercase
 ---
 > **Update:** David Given has already merged my KIM-1 ports into [his repository](https://github.com/davidgiven/cpm65), so they are now part of the main branch.

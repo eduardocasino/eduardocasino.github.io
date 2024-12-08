@@ -2,6 +2,7 @@
 title: IEC support for Corsham's xXIM and Microsoft Basic
 date: 2024-03-03 00:00:00 +0100
 categories: [Software, KIM-1]
+image: /assets/img/posts/2024-03-03-IEC-support-for-Corshams-xXIM-and-Microsoft-Basic/preview.png
 tags: [kim-1, corsham, basic, kb9]     # TAG names should always be lowercase
 ---
 I've been extending Dave McMurtrie's implementation of IEC disk support for the KIM-1 (from the ca65 port of Nils Andres, aka netzherpes). I've added long file names, sending arbitrary commands to the disk, directory listing, verify and add a jump-table based interface, and used that to add disk support to Corsham's xKIM monitor and Microsoft's KB9. Here is a video of it working:

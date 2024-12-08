@@ -3,16 +3,15 @@ title: A fully configurable RAM/ROM/Video/Disk controller card for the KIM-1
 date: 2024-05-24 00:00:00 +0100
 last_modified_at: 2024-11-30 00:00:00 +0100
 categories: [Hardware, KIM-1]
+image:
+  path: /assets/img/posts/2024-05-24-A-fully-configurable-RAM-ROM-Video-disk-controller-card-for-the-KIM-1/preview.png
+  alt: Card prototype (not final version)
 tags: [kim-1, mtu, ram, rom, k-1008, k-1013]     # TAG names should always be lowercase
 ---
 > **Update:** K-1013 functionallity implemented. Still in beta, but working reasonably well. Also, sent to hell the Python `memcfg` utility and rewrote it in plain C.
 {: .prompt-info }
 
-I'm working on a fully configurable RAM/ROM/Video (and soon disk controller) card for the KIM-1:
-
-![img-description](/assets/img/posts/2024-05-24-A-fully-configurable-RAM-ROM-Video-disk-controller-card-for-the-KIM-1/memory_card.png)
-
-The picture is of my prototype. The current design is now corrected and does not need the bodge wires :wink:.
+I'm working on a fully configurable RAM/ROM/Video (and soon disk controller) card for the KIM-1. The picture above is of my prototype. The current design is now corrected and does not need the bodge wires :wink:.
 
 As you can see, it is based in a Raspberry Pi Pico W and has some cool features:
 

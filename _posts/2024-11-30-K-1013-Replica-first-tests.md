@@ -2,11 +2,12 @@
 title: K-1013 Replica first tests
 date: 2024-11-30 02:21:00 +0100
 categories: [Hardware, KIM-1]
+image:
+  path: /assets/img/posts/2024-11-30-K-1013-Replica-first-tests/power.jpg
+  alt: Power-up tests
 tags: [kim-1, mtu, k-1013]     # TAG names should always be lowercase
 ---
 First "dry" test: powered up without connecting to the Kim, nothing blew up, no magic smoke, chips cold except for the D765 and the prom, which are lukewarm. So far, so good! :sweat_smile:
-
-![img-description](/assets/img/posts/2024-11-30-K-1013-Replica-first-tests/power.jpg)
 
 The board is adjusted as instructed in the manual and I can send commands and receive responses from the controller with no disk attached.
 

@@ -2,6 +2,7 @@
 title: K-1013 Replica PCB finished!
 date: 2024-09-01 19:03:00 +0100
 categories: [Hardware, KIM-1]
+image: /assets/img/posts/2024-09-01-K-1013-Replica-PCB-finished/preview.png
 tags: [kim-1, mtu, k-1013]     # TAG names should always be lowercase
 ---
 Routing of front and back layers completed!
