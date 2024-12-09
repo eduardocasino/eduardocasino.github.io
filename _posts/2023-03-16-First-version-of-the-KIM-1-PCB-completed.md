@@ -16,3 +16,19 @@ I've started working on FPGA replacements for the 6530-002 and 003, based on a V
 
 ![img-description](/assets/img/posts/2023-03-16-First-version-of-the-KIM-1-PCB-completed/kim-1-front.png)
 ![img-description](/assets/img/posts/2023-03-16-First-version-of-the-KIM-1-PCB-completed/kim-1-back.png)
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

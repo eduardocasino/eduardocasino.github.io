@@ -38,3 +38,19 @@ It has a few limitations, thugh:
 
 * It only currently works for 1541 drives (or pi1541 with 1541 personality). Other drives or SDIEC are not supported.
 * Did I say that it is slow as hell?
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

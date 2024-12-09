@@ -18,3 +18,19 @@ I've just completed a first version of the schematics, including some annotation
 As always, everything is available at my [GitHub repository](https://github.com/eduardocasino/k-1008-visable-memory-card-replica).
 
 Thanks to Hans Otten for the invaluable info at his site, http://retro.hansotten.nl, and Dave Plummer for the photos and interest in this project.
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

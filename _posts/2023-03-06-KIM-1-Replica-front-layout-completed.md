@@ -8,3 +8,19 @@ DRC against schematic passes. I finally came up with a solution for footprints t
 
 ![img-description](/assets/img/posts/2023-03-06-KIM-1-Replica-front-layout-completed/kim-1-components.png)
 ![img-description](/assets/img/posts/2023-03-06-KIM-1-Replica-front-layout-completed/kim-1-front.png)
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

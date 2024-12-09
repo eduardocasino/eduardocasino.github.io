@@ -16,3 +16,19 @@ RAM tests also OK. All ram passes, but it was not at first try, of course. :stuc
 I've also done very basic tests like reading the configurable switch, setting the system RAM as read-only or read-write and read the status register of the 765. All good.
 
 I'll contiue with the tests as soon I receive a missing connector.
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

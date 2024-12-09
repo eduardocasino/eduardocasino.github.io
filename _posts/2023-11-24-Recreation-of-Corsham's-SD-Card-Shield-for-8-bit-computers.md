@@ -13,3 +13,19 @@ I have been able to reverse engineer the design from the schematic of previous v
 ![img-description](/assets/img/posts/2023-11-24-Recreation-of-Corsham's-SD-Card-Shield-for-8-bit-computers/sd-card-shield.png)
 
 Everything available at this [GitHub repository](https://github.com/eduardocasino/sd-card-shield)
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

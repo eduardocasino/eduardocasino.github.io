@@ -9,3 +9,19 @@ Finished the top layer too. I need to make some minor adjustments to the solder 
 I've had to add some "frog DNA" to fill in the hidden traces, so it won't be as "identical" as I would like, but there are no pictures of a bare PCB.
 
 ![img-description](/assets/img/posts/2023-07-13-K-1008-replica-PCB-finished/k-1008-visable-memory-front.png)
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

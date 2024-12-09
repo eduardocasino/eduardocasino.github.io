@@ -33,3 +33,19 @@ A ~~python~~ C utility, memcfg, is provided to configure the board and facilitat
 Everything is now available in my GitHub repository. There is also a pitiful YouTube video with a small demo:
 
 {% include embed/youtube.html id='ikJZE_anK7o' %}
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

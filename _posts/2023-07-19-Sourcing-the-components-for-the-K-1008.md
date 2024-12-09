@@ -11,3 +11,19 @@ The boards have already been sent to fabrication and I'm starting to source the 
 * I'll probably left the regulators unpopulated (bridged) and use regulated 5V and 12V, but the LM340T5 is still in production and the LM342P12 can be replaced by the LM340T12.
 * The 2N3904/2N3906 pair seems like a good replacement for the 2N3646/2N9416 in the level shifters. Will have to adjust the base resistor, though. The TO106 package is not made anymore, I'll go with TO92.
 * And, finally, a low Vf Schottky, like the BAT86, will be a perfect replacement for the Ge 1N270 diode to simulate an open-collector gate for the VECTOR_FETCH (K7) signal.
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

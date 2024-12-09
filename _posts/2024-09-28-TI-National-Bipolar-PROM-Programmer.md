@@ -10,3 +10,19 @@ Based on [this design of a PROM programmer](https://theoddys.com/acorn/replica_b
 The Arduino sketch is still WIP, currently just reads PROMS.
 
 ![img-description](/assets/img/posts/2024-09-28-TI-National-Bipolar-PROM-Programmer/programmer.jpg)
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -29,3 +29,19 @@ It turned out that it was because I was using a crappy Chinese video converter a
 ![img-description](/assets/img/posts/2023-08-19-K-1008-Replica-completed/success.jpg)
 
 Success! Clean and stable image.
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

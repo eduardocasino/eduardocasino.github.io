@@ -22,3 +22,19 @@ For it to be minimally usable, I need memory for my KIM-1. So, I've designed wha
 ![img-description](/assets/img/posts/2023-11-20-RAM-ROM-card-for-the-MTU-backplane/kim-1-RAM-ROM.png)
 
 Everything available at this [GitHub repository](https://github.com/eduardocasino/kim-1-mtu-ram-rom)
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

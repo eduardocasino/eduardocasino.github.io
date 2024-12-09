@@ -18,3 +18,19 @@ This is the current PCB design:
 ![img-description](/assets/img/posts/2023-09-25-Application-and-IO-board-for-the-KIM-1/kim-1-super-io.png)
 
 As always, I'll make everything available on GitHub.
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

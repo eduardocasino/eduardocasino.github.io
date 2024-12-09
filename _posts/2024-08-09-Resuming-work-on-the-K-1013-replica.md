@@ -11,3 +11,19 @@ As this board has mainly straight lines, I'm skipping the Inkscape part and dire
 
 ![img-description](/assets/img/posts/2024-08-09-Resuming-work-on-the-K-1013-replica/k-1013-progress-front.png)
 ![img-description](/assets/img/posts/2024-08-09-Resuming-work-on-the-K-1013-replica/k-1013-progress-back.png)
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

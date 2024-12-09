@@ -13,3 +13,19 @@ I think I'm finally going with the proper tracks.
 The pcb is progressing slowly but steadily. I've run into some differences between the schematic and the pcb photos that have slowed me down a bit, but I'm happy with how it's going so far:
 
 ![img-description](/assets/img/posts/2023-12-21-K-1013-Replica-update-and-decisions/k-1013.png)
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -14,3 +14,19 @@ I was having a boring afternoon, so I decided to write my own version, following
 Code at [my GitHub repo](https://github.com/eduardocasino/k-1008-sieve), mandatory video follows:
 
 {% include googleDrivePlayer.html id='1fZpAcuPw2JgOKWfUrvde_4su_8YynnyW/preview' %}
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

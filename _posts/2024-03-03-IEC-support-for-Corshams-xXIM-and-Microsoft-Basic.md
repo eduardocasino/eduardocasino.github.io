@@ -53,3 +53,19 @@ If you can generate a physical or pi1541 or similar image, make one with `kb9v2.
 * `DIR` will list disk directory contents to screen. The current program in memory is not changed.
 * `DCMD "<CMD>"` will send command `<CMD>` to disk. Example:
 `DCMD "S0:X*"` will delete (scratch) all files beginning with "X".
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

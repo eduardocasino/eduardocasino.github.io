@@ -12,3 +12,19 @@ Board completed! Top, an original one (photo by Eric Wright); bottom, my replica
 ![img-description](/assets/img/posts/2024-11-21-K-1013-Replica-completed/k1013-replica.jpg)
 
 Time to do some testing. I'm really afraid of those 4116 rams, courtesy of my favourite Chinese vendor in Aliexpress, Lake Store. I've ordered before from them (MM5280 RAMs for my K-1008) and, so far, they've been mostly OK. This time, all are sanded and relabelled so, who knows what is under the lid. Unfortunately, I do not yet have a tester to check them.
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

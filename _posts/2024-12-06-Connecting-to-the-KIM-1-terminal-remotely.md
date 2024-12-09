@@ -25,3 +25,19 @@ Which I've just finished building and testing. Now I can connect to my KIM-1 ter
 Everything at my [GitHub repository](https://github.com/eduardocasino/kim-1-mtu-motherboard)
 
 This opens up an interesting possibility. With just a few mods, maybe I can remotely control the KIM (power supply, reset) so I can have fun with the real thing wherever I am... :smirk:
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

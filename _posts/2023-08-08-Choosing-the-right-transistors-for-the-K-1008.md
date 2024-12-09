@@ -17,3 +17,19 @@ But, it turned out it was not the case. The PN2369A is fast enough and the fall 
 Searching through datasheets, I've found the 2N4403, which has better turn-on figures. Adjusted a bit the resistors and speed-up capacitors and.. Got it! 12V amplitude and transition from Vss+2V to Vdd-2V between 10ns-40ns, as required in the MM5280 datasheet (with my old scope, I estimate about 25-30ns)
 
 ![img-description](/assets/img/posts/2023-08-08-Choosing-the-right-transistors-for-the-K-1008/ce_waveform7.jpg)
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

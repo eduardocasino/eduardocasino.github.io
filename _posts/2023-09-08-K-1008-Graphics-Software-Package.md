@@ -9,3 +9,19 @@ I've reproduced the manual that came with the K-1008 Graphics Software Package, 
 The manual was reproduced with the help of the Tesseract OCR for the texts, but all the listings were typed in manually. Then it was formatted using Libre Office and exported to PDF. It aims to be a true, facsimile quality reproduction of the original and for that reason I haven't fixed any typo, bug or grammatical error.
 
 Big thanks to Hans Otten , who proofread, tested and fixed some errors (thankfully not so many :wink:) He's also made TASM32 versions of the sources and integrated the subroutines with MS Basic for the KIM-1. You can check it out at his site, http://retro.hansotten.nl, or [at my GitHub](https://github.com/eduardocasino/k-1008-graphics-software-package)
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>

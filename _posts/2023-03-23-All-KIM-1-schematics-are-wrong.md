@@ -9,3 +9,19 @@ I've just remembered that there is a mistake in the original KIM-1 schematic, th
 The values of resistors R18 to R23 and R41 to R46 are swapped. The former are pull-ups that should be 1K and the later are the base resistors, that should be 220R in early revisions or 100R from Rev. D and onwards.
 
 On a side note, I've changed the license terms to my schematic and now it is CC BY 4.0, as it contains publicly available information and does not add any significant value. The "Non Commercial" restriction is now limited to the PCB.
+
+<script src="https://giscus.app/client.js"
+        data-repo="eduardocasino/eduardocasino.github.io"
+        data-repo-id="R_kgDONX03Cg"
+        data-category="General"
+        data-category-id="DIC_kwDONX03Cs4ClErs"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>
