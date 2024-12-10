@@ -457,6 +457,25 @@ But it also shows some inconsistent behaviour:
 
 * Some constructions like `#<LABEL+1` work in operands, but not `#<LABEL-1`.
 
+Another oddity I've found is the way it manages the forward references. When the assembler can't resolve a reference in an operand, it always reserve two bytes. That is logical for instructions that have absolute or page zero addressing modes, as it can end being a one or two bytes value. But for instructions that **only** have relative addressing, like all the branches, it does not make sense, because it will always resolve to a one byte value or an error. In these cases, the assembler places the value in the first byte and a `NOP` in the second, wasting one byte and two clock cycles for every relative forward jump. Example:
+
+```plaintext
+                    ; Expected         Generated
+
+       BCS LE054    ; E044 B0 0E       E044 B0 0F  <--- LE054 is a forward reference
+                    ;                  E046 NOP    <--- Added NOP
+       SED          ; E046 F8          E047 F8
+       LDA LINEL    ; E047 A5 4D       E048 A5 4D
+       ADC #$01     ; E049 69 01       E04A 69 01
+       STA LINEL    ; E04B 85 4D       E04C 85 4D
+       LDA LINEH    ; E04D A5 4C       E04E A5 4C
+       ADC #$00     ; E04F 69 00       E050 69 00
+       STA LINEH    ; E051 85 4C       E052 85 4C
+       CLD          ; E053 D8          E054 D8
+LE054  JSR NFNDNB   ; E054 20 E1 E5    E055 20 54 E6
+```
+{: file="example.asm" }
+
 I can't imagine developing a non-trivial program on a KIM-1 using this tool. Programmers in the 70s where cut from a different cloth!
 
 <script src="https://giscus.app/client.js"
