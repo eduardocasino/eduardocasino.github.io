@@ -17,7 +17,7 @@ So, that posed a question for my K-1013 replica project: **which software am i r
 
 Then, I stumbled upon [Davis Given's CP/M-65](https://github.com/davidgiven/cpm65), a modern rewrite of the popular operating system that targets the 6502 CPU. It supported some popular machines, like the BBC Micro, the Apple ][ or even the PET, and was very well written and structured, so it seemed a very good candidate.
 
-The K-1013 emulation in my Pico based [RAM/ROM/Video/FDC card]({% post_url 2024-05-24-A-fully-configurable-RAM-ROM-Video-disk-controller-card-for-the-KIM-1 %}) was also reasonably complete, so I just goy down to work. The most difficult part was to understand the complex, Python based, build system. Once I did, just created a new folder for the architecture dependent parts of the port, which are just the loader and the BIOS, had a good look at the other ports and started coding. A couple of days later, I got it running:
+The K-1013 emulation in my Pico based [RAM/ROM/Video/FDC card]({% post_url 2024-05-24-A-fully-configurable-RAM-ROM-Video-disk-controller-card-for-the-KIM-1 %}) was also reasonably complete, so I just got down to work. The most difficult part was to understand the complex, Python based, build system. Once I did, just created a new folder for the architecture dependent parts of the port, which are just the loader and the BIOS, had a good look at the other ports and started coding. A couple of days later, I got it running:
 
 ![img-description](/assets/img/posts/2024-07-26-Porting-CP-M-65-to-the-KIM-1/cpm-65-k1013.png)
 
