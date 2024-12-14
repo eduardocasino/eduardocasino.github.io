@@ -34,7 +34,7 @@ And finally, David had already made a 1541 based port for the C-64 and I had the
 
 ![img-description](/assets/img/posts/2024-07-26-Porting-CP-M-65-to-the-KIM-1/cpm-65-iec.png)
 
-It has a few limitations, thugh:
+It has a few limitations, though:
 
 * It only currently works for 1541 drives (or pi1541 with 1541 personality). Other drives or SDIEC are not supported.
 * Did I say that it is slow as hell?
