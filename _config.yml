@@ -149,7 +149,7 @@ pwa:
 
 paginate: 10
 
-sort_by: updated # [created | updated], default to created
+sort_by: updated # If set to 'updated', sorts using last_modified_at
 
 # The base URL of your site
 baseurl: ""
