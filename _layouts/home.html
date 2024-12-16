@@ -5,26 +5,30 @@ refactor: true
 
 {% include lang.html %}
 
-{% assign sort_list = '' | split: '' %}
+{% if site.sort_by == 'updated' %}
+  {% assign sort_list = '' | split: '' %}
 
-{% for post in site.posts %}
-  {% assign datetime = post.last_modified_at | default: post.date %}
+  {% for post in site.posts %}
+    {% assign datetime = post.last_modified_at | default: post.date %}
 
-  {% capture elem %}
-    {{- datetime | date: "%Y%m%d%H%M%S" -}}::{{- forloop.index0 -}}
-  {% endcapture %}
+    {% capture elem %}
+      {{- datetime | date: "%Y%m%d%H%M%S" -}}::{{- forloop.index0 -}}
+    {% endcapture %}
 
-  {% assign sort_list = sort_list | push: elem %}
-{% endfor %}
+    {% assign sort_list = sort_list | push: elem %}
+  {% endfor %}
 
-{% assign sort_list = sort_list | sort | reverse %}
+  {% assign sort_list = sort_list | sort | reverse %}
 
-{% assign all_list = '' | split: '' %}
+  {% assign all_list = '' | split: '' %}
 
-{% for item in sort_list %}
-  {% assign index = item | split: '::' | last | plus: 0 %}
-  {% assign all_list = all_list | push: site.posts[index] %}
-{% endfor %}
+  {% for item in sort_list %}
+    {% assign index = item | split: '::' | last | plus: 0 %}
+    {% assign all_list = all_list | push: site.posts[index] %}
+  {% endfor %}
+{% else %}
+  {% assign all_list = site.posts %}
+{% endif %}
 
 {% assign all_normal = all_list | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
 {% assign all_pinned = all_list | where: 'pin', 'true' %}

@@ -149,6 +149,8 @@ pwa:
 
 paginate: 10
 
+sort_by: updated # [created | updated], default to created
+
 # The base URL of your site
 baseurl: ""
 
