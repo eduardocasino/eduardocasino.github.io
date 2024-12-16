@@ -3,6 +3,9 @@ title: RAM ROM card for the MTU backplane
 date: 2023-11-20 00:00:00 +0100
 last_modified_at: 2024-04-30 00:00:00 +0100
 categories: [Hardware, KIM-1]
+image:
+  path: /assets/img/posts/2023-11-20-RAM-ROM-card-for-the-MTU-backplane/preview.png
+  alt: EPROM image by yellowcloud from Germany, CC BY 2.0
 tags: [kim-1, mtu, k-1008, k-1013, ram, rom]     # TAG names should always be lowercase
 ---
 > **Update:** New corrected and enhanced version
