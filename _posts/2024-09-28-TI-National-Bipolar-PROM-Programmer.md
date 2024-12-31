@@ -43,7 +43,7 @@ So, the programmer's hardware must be capable of:
 ![schematic-1](/assets/img/posts/2024-09-28-TI-National-Bipolar-PROM-Programmer/schematic-1.png){: width="250" .right }
 Chris' design is very clever. It uses a boost converter which output voltage is set based on a voltage divider formed by R<sub>2</sub> and R<sub>3</sub> when the transistor Q<sub>1</sub> is off. According to the datasheet, $$ V_{out} = (\frac{R_{3}}{R_{2}} + 1)\times1.23 = 5.01 V $$. When the transistor is on, R<sub>4</sub> is added in parallel to R<sub>2</sub>, which yields an equivalent value of $$ R_{eq} = \frac{R_{2} \times R_{4}}{R_{2} + R_{4}} = 15.95 kΩ $$, so the new output voltage is $$ V_{out} = (\frac{R_{3}}{R_{eq}} + 1)\times1.23 = 10.48 V $$. This way, we can generate the programming pulse just controlling Q<sub>1</sub>.
 
-The [rest of the circuit](https://github.com/eduardocasino/TI-Bipolar-PROM-programmer-shield/blob/main/hardware/docs/TI-Bipolar-PROM-programmer-shield.pdf) is very straightforward, with a mosfet controlling power on/off, eight transistors that connect each bit pin to ground or the 3.9 kΩ pullups, and a couple of open-collector buffers. I've opted for an SMD design, whith sizes big enough so they can be soldered manually:
+The [rest of the circuit](https://github.com/eduardocasino/TI-Bipolar-PROM-programmer-shield/blob/main/hardware/docs/TI-Bipolar-PROM-programmer-shield.pdf) is very straightforward, with a mosfet controlling power on/off, eight transistors that connect each bit pin to ground or the 3.9 kΩ pullups, and a couple of open-collector buffers. I've opted for an SMD design, with sizes big enough so they can be soldered manually:
 
 ![img-description](/assets/img/posts/2024-09-28-TI-National-Bipolar-PROM-Programmer/programmer.jpg)
 
