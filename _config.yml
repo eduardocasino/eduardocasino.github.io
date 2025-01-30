@@ -39,6 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://x.com/eduardocasino # change to your Twitter homepage
+    - https://mastodon.social/@eduardocasino
     - https://github.com/eduardocasino # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -46,6 +47,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
+  mastodon: <a rel="me" href="https://mastodon.social/@eduardocasino">Mastodon</a>
   google: # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
